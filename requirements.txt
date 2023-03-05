@@ -1,0 +1,12 @@
+cffi==1.15.1
+charset-normalizer==2.1.1
+cryptography==38.0.1
+cx-Freeze==6.11.1
+lief==0.12.2
+packaging==21.3
+pdfminer.six==20220524
+Pillow==9.2.0
+pycparser==2.21
+pyparsing==3.0.9
+PyPDF2==2.11.1
+Wand==0.6.10
